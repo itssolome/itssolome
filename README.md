@@ -3,7 +3,6 @@
   <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenBvd2I1NGxnMGJteWU0djN0dWgxMWVhMDNwaWNlcWEzb3V0M3gwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.gif"  />
 </div>
 
-###
 
 <div align="center">
   <a href="https://linkedin.com/in/brayan-ocampo-lopez" target="_blank">
@@ -11,25 +10,24 @@
   </a>
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=devaspepito06.devaspepito06&"  />
 </div>
 
-###
+---
 
 <h1 align="center">hey there!</h1>
 
-###
+---
 
 <h3 align="left">:-) About Me</h3>
 
-###
 
 <p align="left">I'm from Colombia<br><br>- I’m working as freelancer<br>- I'm currently learning dart and software engineering<br>- In my free time I watch anime and Play metroidvania games</p>
 
-###
+
 
 <details>
 <summary><h3 >🛠 Language and tools</h3></summary>
@@ -102,20 +100,12 @@
 
 </details>
 
-###
-
 <h3 align="left">🔥   My Stats :</h3>
-
-###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=devaspepito06&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devaspepito06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-
 
 ### ✍️ Random Dev Quote
 
