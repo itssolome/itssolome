@@ -110,6 +110,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=itssolome&locale=en&mode=daily&theme=github_dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> <br>
+          <img src="https://gh-readme-profile.vercel.app/api?username=itssolome&bg_color=151515&title_color=8da3b9&text_color=bfb6b6&icon_color=8b5f95&border_color=607e9a&stroke_color=bfb6b6&username_color=da9697" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devaspepito06&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
